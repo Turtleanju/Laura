@@ -1,0 +1,43 @@
+@charset "UTF-8";
+body {
+    background-image: url(Images/Backgrounds/stars2.gif);
+}
+tr td h4 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#mymusic {
+    width: 50%;
+    border: thick groove #73EEC0;
+    background-color: #EDF7F0;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+#myfavoritemusic {
+    background-color: rgba(205,234,255,1.00);
+    border: thick ridge rgba(74,217,70,1.00);
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    width: auto;
+    height: auto;
+    text-align: left;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+tr td .row {
+}
+#home{
+	width: 283px
+		
+}
+#blinkie{
+	width: 50%;
+	height: auto;
+}

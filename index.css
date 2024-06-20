@@ -1,0 +1,46 @@
+@charset "UTF-8";
+body {
+    background-image: url(Images/Backgrounds/stars1.gif);
+    padding-top: 50px;
+}
+#frontpage {
+    color: #B13765;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: lighter;
+    font-size: large;
+    text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+tr td .row {
+}
+#welcome {
+    border: medium ridge #F168E4;
+    background-color: #DD84FB;
+}
+tr td #aboutme {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#border {
+    height: auto;
+    width: 100%;
+}
+#welcome {
+    height: auto;
+    width: 50%;
+}
+#home{
+	width: 283px
+		
+}
+#left   {
+    padding-left: 50px;
+    padding-right: auto;
+}
+#right {
+    padding-right: 50px;
+}

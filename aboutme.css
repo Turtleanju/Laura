@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body {
+    background-image: url(Images/Backgrounds/lsd.gif);
+}
+#hello {
+    border: thick groove #EB6C82;
+    background-color: #FFA9A9;
+    color: #7D3EBF;
+    font-style: normal;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#home{
+	width: 283px
+		
+}
+#blinkerton {
+    width: 100%;
+}
